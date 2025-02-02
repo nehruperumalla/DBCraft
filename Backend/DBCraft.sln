@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBCraft.API", "DBCraft.API\DBCraft.API.csproj", "{84D69D8C-9C3C-4C10-84D9-9EE442966523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBCraft.Domain", "DBCraft.Domain\DBCraft.Domain.csproj", "{0FA66B02-9C56-4D28-A579-B6F0E9614369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBCraft.Application", "DBCraft.Application\DBCraft.Application.csproj", "{D91C8402-89B4-481E-A841-3DE8C1880C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBCraft.Infrastructure", "DBCraft.Infrastructure\DBCraft.Infrastructure.csproj", "{C9C4A4BE-7FF4-4355-A5DE-EEEC6012C6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBCraft.Tests", "DBCraft.Tests\DBCraft.Tests.csproj", "{11DE6524-A874-4C89-B288-F8014AFEE69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D69D8C-9C3C-4C10-84D9-9EE442966523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D69D8C-9C3C-4C10-84D9-9EE442966523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D69D8C-9C3C-4C10-84D9-9EE442966523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D69D8C-9C3C-4C10-84D9-9EE442966523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA66B02-9C56-4D28-A579-B6F0E9614369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA66B02-9C56-4D28-A579-B6F0E9614369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA66B02-9C56-4D28-A579-B6F0E9614369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA66B02-9C56-4D28-A579-B6F0E9614369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91C8402-89B4-481E-A841-3DE8C1880C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91C8402-89B4-481E-A841-3DE8C1880C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91C8402-89B4-481E-A841-3DE8C1880C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91C8402-89B4-481E-A841-3DE8C1880C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C4A4BE-7FF4-4355-A5DE-EEEC6012C6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C4A4BE-7FF4-4355-A5DE-EEEC6012C6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C4A4BE-7FF4-4355-A5DE-EEEC6012C6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C4A4BE-7FF4-4355-A5DE-EEEC6012C6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11DE6524-A874-4C89-B288-F8014AFEE69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11DE6524-A874-4C89-B288-F8014AFEE69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11DE6524-A874-4C89-B288-F8014AFEE69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11DE6524-A874-4C89-B288-F8014AFEE69A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

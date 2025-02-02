@@ -1,0 +1,20 @@
+# .NET Core
+bin/
+obj/
+.vs/
+.idea/
+*.pdb
+*.publish.xml
+wwwroot/
+*.mdf
+*.ldf
+
+# Vue.js
+node_modules/
+dist/
+*.log
+*.swp
+.idea/
+.vscode/
+.env
+.DS_Store
